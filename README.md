@@ -7,11 +7,11 @@
 
 - 
 
-- [![Posts](https://img.shields.io/badge/-Posts-717171?style=social)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
+- [![Posts](https://img.shields.io/badge/-Posts-717171?style=social&logo=Github)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
 
-- [![Pizzeria](https://img.shields.io/badge/-Pizzeria-717171?style=social)](https://kiipariss.github.io/pizza/) - The application takes data from the mock array and displays the assortment, calculates the cost and transfers the selected product to the cart.
+- [![Pizzeria](https://img.shields.io/badge/-Pizzeria-717171?style=social&logo=Github)](https://kiipariss.github.io/pizza/) - The application takes data from the mock array and displays the assortment, calculates the cost and transfers the selected product to the cart.
 
-- [![layout](https://img.shields.io/badge/-layout-717171?style=social)](https://kiipariss.github.io/digital/) - Layout using gulp.
+- [![layout](https://img.shields.io/badge/-layout-717171?style=social&logo=Github)](https://kiipariss.github.io/digital/) - Layout using gulp.
 
 
 
