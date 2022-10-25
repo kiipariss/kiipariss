@@ -5,11 +5,13 @@
 
 ## My works
 
-- [![Posts](https://img.shields.io/badge/-Posts-717171?style=plastic&logo=Telegramm)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
+- 
 
-- [![Pizzeria](https://img.shields.io/badge/-Pizzeria-717171?style=plastic&logo=Telegramm)](https://kiipariss.github.io/pizza/) - The application takes data from the mock array and displays the assortment, calculates the cost and transfers the selected product to the cart.
+- [![Posts](Posts)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
 
-- [![layout](https://img.shields.io/badge/-layout-717171?style=plastic&logo=Telegramm)](https://kiipariss.github.io/digital/) - Layout using gulp.
+- [![Pizzeria](https://img.shields.io/badge/-Pizzeria-717171?style=plastic)](https://kiipariss.github.io/pizza/) - The application takes data from the mock array and displays the assortment, calculates the cost and transfers the selected product to the cart.
+
+- [![layout](https://img.shields.io/badge/-layout-717171?style=plastic)](https://kiipariss.github.io/digital/) - Layout using gulp.
 
 
 
