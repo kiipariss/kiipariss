@@ -6,21 +6,7 @@
 My works
 
 ## languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-717171?style=plastic&logo=JavaScript)
-
-![React](https://img.shields.io/badge/-React-626262?style=plastic&logo=React)
-
-![Redux](https://img.shields.io/badge/-Redux-555555?style=plastic&logo=Redux)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-4A4A4A?style=plastic&logo=TypeScript)
-
-![Jest](https://img.shields.io/badge/-Jest-3F3F3F?style=plastic&logo=Jest)
-
-![Webpack](https://img.shields.io/badge/-Webpack-363636?style=plastic&logo=Webpack)
-
-![Node.js](https://img.shields.io/badge/-Node.js-2E2E2E?style=plastic&logo=Node.js)
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-717171?style=plastic&logo=JavaScript) ![React](https://img.shields.io/badge/-React-626262?style=plastic&logo=React) ![Redux](https://img.shields.io/badge/-Redux-555555?style=plastic&logo=Redux) ![TypeScript](https://img.shields.io/badge/-TypeScript-4A4A4A?style=plastic&logo=TypeScript) ![Jest](https://img.shields.io/badge/-Jest-3F3F3F?style=plastic&logo=Jest) ![Webpack](https://img.shields.io/badge/-Webpack-363636?style=plastic&logo=Webpack) ![Node.js](https://img.shields.io/badge/-Node.js-2E2E2E?style=plastic&logo=Node.js) 
 
 
 ## Follow me
