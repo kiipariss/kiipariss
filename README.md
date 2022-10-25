@@ -24,4 +24,4 @@
 
 ## Follow me
 
-[![Telegramm](https://img.shields.io/badge/-Telegramm-717171?style=plastic&logo=Telegramm)](https://t.me/Areamiss) [![Yandex](https://img.shields.io/badge/-Yandex-626262?style=plastic&logo=Yandex)](https://mail.yandex.ru/?uid=389124146#inbox) [![Gmail](https://img.shields.io/badge/-Gmail-555555?style=plastic&logo=Gmail)](https://mail.google.com/mail/u/0/?ogbl#inbox) [![VK](https://img.shields.io/badge/-VK-363636?style=plastic&logo=VK)](https://vk.com/id233723417) 
+[![Telegram](https://img.shields.io/badge/-Telegram-717171?style=plastic&logo=Telegram)](https://t.me/Areamiss) [![Yandex](https://img.shields.io/badge/-Yandex-626262?style=plastic&logo=yandex)](https://mail.yandex.ru/?uid=389124146#inbox) [![Gmail](https://img.shields.io/badge/-Gmail-555555?style=plastic&logo=Gmail)](https://mail.google.com/mail/u/0/?ogbl#inbox) [![VK](https://img.shields.io/badge/-VK-363636?style=plastic&logo=VK)](https://vk.com/id233723417) 
