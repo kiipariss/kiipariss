@@ -5,7 +5,6 @@
 
 ## My works
 
-- 
 
 - [![Posts](https://img.shields.io/badge/-Posts-717171?style=social&logo=Github)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
 
