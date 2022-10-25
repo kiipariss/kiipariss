@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Header](https://github.com/kiipariss/kiipariss/blob/main/assets/1500x500.jpeg)(https://spb.hh.ru/resume/f2774067ff0b0d4b8e0039ed1f55374b4f4330)]
 
-<!--
-**kiipariss/kiipariss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My works
+
+languages and Tools
+
+
+Follow me
+[![Header](https://github.com/kiipariss/kiipariss/blob/main/assets/1500x500.jpeg)(https://spb.hh.ru/resume/f2774067ff0b0d4b8e0039ed1f55374b4f4330)]
+
+
+about me
+
+My works
+
+languages and Tools
+
+
+Follow me
