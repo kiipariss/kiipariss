@@ -8,7 +8,7 @@
 
 - [![Posts](https://img.shields.io/badge/-Posts-717171?style=social&logo=Github)](https://kiipariss.github.io/ReactPost/) - The application automatically takes the posts from the JSONPlaceholder into renders on the client.
 
-- [![ToDo](https://img.shields.io/badge/-Pizzeria-717171?style=social&logo=Github)](https://github.com/kiipariss/todo) - ToDo list written with Typescript and stored in localStorage
+- [![ToDo](https://img.shields.io/badge/-ToDo-717171?style=social&logo=Github)](https://github.com/kiipariss/todo) - ToDo list written with Typescript and stored in localStorage
 
 - [![layout](https://img.shields.io/badge/-layout-717171?style=social&logo=Github)](https://kiipariss.github.io/digital/) - Layout using gulp.
 
